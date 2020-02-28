@@ -1,4 +1,4 @@
-package com.surecloud;
+package com.tomgregory;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

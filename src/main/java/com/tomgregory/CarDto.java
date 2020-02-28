@@ -1,4 +1,4 @@
-package com.surecloud;
+package com.tomgregory;
 
 import lombok.Getter;
 import lombok.Setter;
